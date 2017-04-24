@@ -1,0 +1,100 @@
+1. Taberu- たべる　食べる- To eat　
+2. Nomu- のむ　飲む- To drink　
+3. Nemu- ねむ　ねむ- To sleep　
+4. Okiru- おきる　起きる- To wake up
+5. Miru- みる　見る- To see/To watch
+6. Kiku- きく　聞く- To listen/ To hear/ To ask
+7. Kagu- かぐ　嗅ぐ- To smell
+8. Sawaru- さわる　触る- To touch
+9. Ajiwau- あじわう　味わう- To taste
+10. Hanasu- はなす　話す- To speak
+11. Iu- いう　言う- To say
+12. Kuru- くる　来る- To come
+13. Iku- いく　行く- To go
+14. Dekakeru- でかける　出かける- To go out
+15. Kaeru- かえる　返る- To return home
+16. Suru- する-　To do
+17. Yaru- やる　遣る- To perform
+18. Wakaru- わかる　分かる- To understand
+19. Iru- いる　居る- In, at (used for people)
+20. Aru- ある　有る- To be/exist (used for things)
+21. Sanposuru- さんぽする　散歩する- To walk
+22. Hashiru- はしる　走る- To run
+23. Tobiagaru- とびあがる　飛び上がる- To jump
+24. Oyogu- およぐ　泳ぐ- To swim
+25. Choyaku- ちょうやく　跳躍- To skip
+26. Undosuru- うんどうする　運動する- To exercise
+27. Futoru- ふとる　太る- To gain weight
+28. Yaseru- やせる　痩せる- To lose weight
+29. Tsukareru- つかれる　疲れる- To get tired
+30. Onakagasuku-おなかがすく　お腹がすく- To be hungry
+31. Nodogakawaku- のどがかわく　喉が渇く- To be thirsty
+32. Ofuronihairu- おふろにはいる　お風呂に入る- To take a bath
+33. Sojisuru- そうじする　掃除する- To clean
+34. Arau- あらう　洗う- To wash
+35. Sentakusuru- せんたくする　洗濯する- To do laundry
+36. Kiru- きる　着る- To put on clothes (above your waist)
+37. Haku- はく- To put on clothes (below your waist)
+38. Megane wo kakeru- めがねをかける　眼鏡を掛ける- To put on glasses
+39. Tsukeru- つける- To turn on
+40. Kesu- けす　消す- To turn off power/ to erase
+41. Oshieru- おしえる　教える- To teach
+42. Narau- ならう　習う- To learn
+43. Omou- おもう　思う- To think
+44. Hajimeru- はじめる　始める- To begin
+45. Owaru- おわる　終わる- To end
+46. Hayakunaru- はやくなる　早くなる- To be early
+47. Osokunaru- おそくなる　遅くなる- To be late
+48. Yomu- よむ　詠む- To read
+49. Kaku- かく　書く- To write
+50. Shiru- しる　知る- To know
+51. Oboeru- おぼえる　覚える- To remember
+52. Wasureru-わすれる　忘れる- To forget
+53. Kazoeru- かぞえる　数える- To count
+54. Benkyousuru- べんきょうする　勉強する- To study
+55. Yasumu- やすむ　休む- To be absent/ take a day off
+56. Saboru- さぼる　サボる- To skip school
+57. Ageru- あげる- To give
+58. Morau- もらう　貰う- To receive
+59. Motteiku- もっていく　持ってくる- To bring an item
+60. Tsuretekuru- つれてくる　連れてくる- To bring a person
+61. Kau-かう　買う- To buy
+62. Uru- うる　売る- To sell
+63. Hataraku- はたらく　働く- To work
+64. Tsutomeru- つとめる　勤める- To work for
+65. Kariru- かりる　借りる- To borrow
+66. Kasu-かす　貸す- To lend
+67. Kaesu- かえす　返す- To return an item
+68. Sumu- すむ　住む- To live/ To reside/ To inhabit
+69. Akeru- あける　開ける- To open
+70. Shimeru- しめる　閉める- To close
+71. Tobacco wo suu- たばこをすう　煙草を吸う- To smoke
+72. Yo- よう　酔う- To be drunk
+73. Untensuru- うんてんする　運転する- To drive
+74. Kakaru-っかる　斯かる- To take (amount of time/money)
+75. Shokaisuru-しょうかいする　紹介する- To introduce
+76. Matsu- まつ　待つ- To wait
+77. Isogu-いそぐ　急ぐ- To hurry
+78. Au- あう　会う- To meet
+79. Shiru-しる　知る- To get to know
+80. Harau- はらう　払う- To pay
+81. Suwaru- すわる　座る- To sit
+82. Tatsu- たつ　立つ- To stand
+83. Kenkasuru- けんかする　喧嘩する- To fight/ To quarrel
+84. Tetsudau- てつだう　手伝う- To help
+85. Kimeru- きめる　決める- To decide
+86. Machigau- まちがう　間違う- To make a mistake
+87. Denwawokakeru- でんわをかえる　電話をかける- To make a phone call
+88. Tsukuru- つくる　作る- To make
+89. Tsukau- つかう　使う- To use
+90. Warau- わらう　笑う- To laugh
+91. Naku- なく　泣く- To cry
+92. Motsu- もつ　持つ- To carry
+93. Otosu- おとす　おとす- To drop
+94. Jirojiromiru- じろじろみる　じろじろ見る- To stare
+95. Odoru- おどる　踊る- To dance
+96. Utau- うたう　歌う- To sing
+97. Renshusuru- れんしゅうする　練習する- To practice
+98. Noboru- のぼる　上る- To climb/To ascend
+99. Oriru- おりる　降りる- To descend/To go down
+100. Ryorisuru- りょうする　料理する- To cook
